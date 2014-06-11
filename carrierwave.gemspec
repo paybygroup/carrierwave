@@ -24,8 +24,8 @@ Gem::Specification.new do |s|
   s.specification_version = 3
   s.licenses = ["MIT"]
 
-  s.add_dependency "activesupport", ">= 3.2.0"
-  s.add_dependency "activemodel", ">= 3.2.0"
+  s.add_dependency "activesupport", ">= 4.0.0"
+  s.add_dependency "activemodel", ">= 4.0.0"
   s.add_dependency "json", ">= 1.7"
   s.add_dependency "mime-types", ">= 1.16"
 
